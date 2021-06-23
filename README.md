@@ -1,4 +1,4 @@
-# Módulo Cielo 3.0 Magento 2
+# Módulo Rede Magento 2
 
 Integração entre o Magento 2 e a API da Rede
 
