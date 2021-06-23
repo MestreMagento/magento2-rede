@@ -41,7 +41,3 @@ O módulo rede para Magento 2 foi pensado para aumentar a conversão de vendas d
 ## Instalação
 
 Link para compra em nossa loja: <a href="https://www.modulomagento.com.br/modulo-rede-magento-2">Módulo Rede Magento 2</a>
-
-## Documentação
-
-Link para a documentação do módulo: <a href="https://www.cursomagento.com.br/blog/rede-magento/">Acesse aqui</a>.
