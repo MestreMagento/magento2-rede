@@ -40,7 +40,7 @@ O módulo rede para Magento 2 foi pensado para aumentar a conversão de vendas d
 
 ## Instalação
 
-Link para compra em nossa loja: <a href="https://www.modulomagento.com.br/modulo-cielo-magento-2">Módulo Cielo Magento 2</a>
+Link para compra em nossa loja: <a href="https://www.modulomagento.com.br/modulo-rede-magento-2">Módulo Rede Magento 2</a>
 
 ## Documentação
 
